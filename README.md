@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johnoliga
-- 👀 I’m interested in software development and game development
+- 👀 I’m interested in product management
 - 🌱 I’m currently learning C++ programming 
 - 💞️ I’m looking to collaborate on gaming projects, software development, and UI/UX design
 - 📫 How to reach me: Email me at johnoliga@gmail.com and call me at 404-640-1199
